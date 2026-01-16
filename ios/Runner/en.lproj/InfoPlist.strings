@@ -1,0 +1,2 @@
+NSLocationWhenInUseUsageDescription = "Enable your location";
+PermissionGroupNotification = "Allow Lalafang to notify you?";

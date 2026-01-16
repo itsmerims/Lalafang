@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "439083208481",
+    "project_id": "lalafang-wxe8k8",
+    "storage_bucket": "lalafang-wxe8k8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439083208481:android:18e93278b422c6bc217860",
+        "android_client_info": {
+          "package_name": "com.byteharbor.lalafang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439083208481-6kmm1d4kn3mt9oi0006hs4u9g78bj1kf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhHBepN7nsqkEtTdiEGNNndNV_Wcleoc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439083208481-6kmm1d4kn3mt9oi0006hs4u9g78bj1kf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "439083208481-c0bci441b9631qs4tmi4lqg2if0aorue.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.byteharbor.lalafang"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439083208481:android:b10f3e22930f1cbd217860",
+        "android_client_info": {
+          "package_name": "com.startupcom.lalafang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439083208481-6b4vpkpo59c9io7el7rtbiukj18aurd1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.startupcom.lalafang",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "439083208481-6kmm1d4kn3mt9oi0006hs4u9g78bj1kf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhHBepN7nsqkEtTdiEGNNndNV_Wcleoc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439083208481-6kmm1d4kn3mt9oi0006hs4u9g78bj1kf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "439083208481-c0bci441b9631qs4tmi4lqg2if0aorue.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.byteharbor.lalafang"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
